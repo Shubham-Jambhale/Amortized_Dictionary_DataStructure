@@ -12,11 +12,12 @@ sorted order.For this class implement search, insert, print methods.
 ad_obj = amor_dict([23, 12 ,24, 42])
 
 ad_obj.print()
-0:empty
 
-1:empty
+ 0:empty
+ 
+ 1:empty
 
-2:[12, 23, 24, 42]
+ 2:[12, 23, 24, 42]
 
 ad_obj.insert(11)
 
